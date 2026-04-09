@@ -74,25 +74,25 @@ Analysis was conducted across four dimensions: ride duration, day-of-week patter
 
 On average, casual riders take trips lasting 19.9 minutes, compared to 12.3 minutes for members, a difference of 62%. This suggests that casual riders tend to use bikes for leisure or exploration, while members use them for shorter, more purposeful trips.
 
-![Average Ride Length](download(2).png)
+<img src="chart1_avg_ride_length.png" width="700"/>
 
 **2. Members Ride More on Weekdays, Casuals on Weekends**
 
 Members show consistently higher ride volume from Monday through Friday, peaking mid-week. Casual riders are most active on Saturdays and Sundays. This pattern strongly indicates that members primarily use Cyclistic for commuting, while casual riders use it for weekend recreation.
 
-![Rides by Day of Week](chart2_rides_by_day.png)
+<img src="chart2_rides_by_day.png" width="700"/>
 
 **3. Members Follow a Commuter Schedule**
 
 When looking at rides by hour of day, members show two sharp peaks: one at 8 AM and another at 5 PM, which align precisely with typical work commute hours. Casual riders show no morning peak and instead gradually build toward an afternoon peak around 3-5 PM, consistent with leisure usage.
 
-![Rides by Hour of Day](chart3_rides_by_hour.png)
+<img src="chart3_rides_by_hour.png" width="700"/>
 
 **4. Ridership Peaks in Summer for Both Segments**
 
 Both casual riders and members peak in August, with members reaching 443K rides and casual riders 323K rides. Both segments decline sharply in winter, but casual riders experience a steeper proportional drop of 93% compared to 75% for members, suggesting that leisure-driven trips are more weather-dependent than commute-driven ones.
 
-![Rides by Month](chart4_rides_by_month.png)
+<img src="chart4_rides_by_month.png" width="700"/>
 
 ---
 
