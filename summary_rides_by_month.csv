@@ -1,0 +1,25 @@
+member_casual,year,month,month_name,ride_count,month_label
+casual,2025,4,Apr,105271,Apr 25
+casual,2025,5,May,175667,May 25
+casual,2025,6,Jun,278699,Jun 25
+casual,2025,7,Jul,308443,Jul 25
+casual,2025,8,Aug,323545,Aug 25
+casual,2025,9,Sep,254728,Sep 25
+casual,2025,10,Oct,214390,Oct 25
+casual,2025,11,Nov,94698,Nov 25
+casual,2025,12,Dec,27088,Dec 25
+casual,2026,1,Jan,23876,Jan 26
+casual,2026,2,Feb,40074,Feb 26
+casual,2026,3,Mar,84801,Mar 26
+member,2025,4,Apr,257922,Apr 25
+member,2025,5,May,313997,May 25
+member,2025,6,Jun,379519,Jun 25
+member,2025,7,Jul,430404,Jul 25
+member,2025,8,Aug,443127,Aug 25
+member,2025,9,Sep,440952,Sep 25
+member,2025,10,Oct,414099,Oct 25
+member,2025,11,Nov,251923,Nov 25
+member,2025,12,Dec,109374,Dec 25
+member,2026,1,Jan,109862,Jan 26
+member,2026,2,Feb,157231,Feb 26
+member,2026,3,Mar,223648,Mar 26
